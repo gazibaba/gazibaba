@@ -1,0 +1,322 @@
+#EXTM3U
+
+🇹🇷🄱🄰🅁🄸🅂 ™️🇹🇷
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 1.png" group-title="SPORT", [AL] SUPER SPORT 1 4K
+http://xfire.one:88/live/test1/test2/34196.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT2.png" group-title="SPORT", [AL] SUPER SPORT 2 4K
+http://xfire.one:88/live/test1/test2/34197.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 3.png" group-title="SPORT", [AL] SUPER SPORT 3 4K
+http://xfire.one:88/live/test1/test2/34198.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 4.png" group-title="SPORT", [AL] SUPER SPORT 4 4K
+http://xfire.one:88/live/test1/test2/34199.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/supersport5.png" group-title="SPORT", [AL] SUPER SPORT 5 4K
+http://xfire.one:88/live/test1/test2/34200.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/supersport6.png" group-title="SPORT", [AL] SUPER SPORT 6 4K
+http://xfire.one:88/live/test1/test2/34201.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT7.png" group-title="SPORT", [AL] SUPER SPORT 7 4K
+http://xfire.one:88/live/test1/test2/34202.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 1.png" group-title="SPORT", [AL] SUPER SPORT 1 4K HEVC
+http://xfire.one:88/live/test1/test2/51531.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT2.png" group-title="SPORT", [AL] SUPER SPORT 2 4K HEVC
+http://xfire.one:88/live/test1/test2/51532.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 3.png" group-title="SPORT", [AL] SUPER SPORT 3 4K HEVC
+http://xfire.one:88/live/test1/test2/51533.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 4.png" group-title="SPORT", [AL] SUPER SPORT 4 4K HEVC
+http://xfire.one:88/live/test1/test2/51534.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/supersport5.png" group-title="SPORT", [AL] SUPER SPORT 5 4K HEVC
+http://xfire.one:88/live/test1/test2/51535.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/supersport6.png" group-title="SPORT", [AL] SUPER SPORT 6 4K HEVC
+http://xfire.one:88/live/test1/test2/51536.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT7.png" group-title="SPORT", [AL] SUPER SPORT 7 4K HEVC
+http://xfire.one:88/live/test1/test2/51537.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 1.png" group-title="SPORT", [AL] SUPER SPORT 1 HD
+http://xfire.one:88/live/test1/test2/34188.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT2.png" group-title="SPORT", [AL] SUPER SPORT 2 HD
+http://xfire.one:88/live/test1/test2/34195.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 4.png" group-title="SPORT", [AL] SUPER SPORT 3 HD
+http://xfire.one:88/live/test1/test2/34190.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 4.png" group-title="SPORT", [AL] SUPER SPORT 4 HD
+http://xfire.one:88/live/test1/test2/34191.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/supersport5.png" group-title="SPORT", [AL] SUPER SPORT 5 HD
+http://xfire.one:88/live/test1/test2/34192.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/TRINGSPORTNEWS.png" group-title="SPORT", [AL] TRING SPORT NEWS
+http://xfire.one:88/live/test1/test2/34203.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 1 FHD
+http://xfire.one:88/live/test1/test2/92377.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 2 FHD
+http://xfire.one:88/live/test1/test2/92378.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 3 FHD
+http://xfire.one:88/live/test1/test2/92379.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 4 FHD
+http://xfire.one:88/live/test1/test2/92380.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/TRINGSPORTNEWS.png" group-title="SPORT", [AL] TRING SPORT NEWS
+http://xfire.one:88/live/test1/test2/34213.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 1 HD
+http://xfire.one:88/live/test1/test2/92381.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 2 HD
+http://xfire.one:88/live/test1/test2/92382.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 3 HD
+http://xfire.one:88/live/test1/test2/92383.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] TRING SPORT 4 HD
+http://xfire.one:88/live/test1/test2/92384.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/ksport.png" group-title="SPORT", [AL] K SPORT 1 4K HEVC
+http://xfire.one:88/live/test1/test2/85190.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/ksport.png" group-title="SPORT", [AL] K SPORT 4 4K HEVC
+http://xfire.one:88/live/test1/test2/85193.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/ksport.png" group-title="SPORT", [AL] K SPORT 1 HD
+http://xfire.one:88/live/test1/test2/34214.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/ksport.png" group-title="SPORT", [AL] K SPORT 2 HD
+http://xfire.one:88/live/test1/test2/34215.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/ksport.png" group-title="SPORT", [AL] K SPORT 3 HD
+http://xfire.one:88/live/test1/test2/34216.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/ksport.png" group-title="SPORT", [AL] K SPORT 4 HD
+http://xfire.one:88/live/test1/test2/34217.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/ksport.png" group-title="SPORT", [AL] K SPORT 5 HD
+http://xfire.one:88/live/test1/test2/34218.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", ART Sport 1 4K HEVC
+http://xfire.one:88/live/test1/test2/85200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", ART Sport 3 4K HEVC
+http://xfire.one:88/live/test1/test2/85202.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", ART Sport 1 HD
+http://xfire.one:88/live/test1/test2/84651.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", ART Sport 2 HD
+http://xfire.one:88/live/test1/test2/84656.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", ART Sport 3 HD
+http://xfire.one:88/live/test1/test2/84652.m3u8
+
+#EXTINF:-1 tvg-logo="http://canliturktv.com/Logolar/rtshalsport.png" group-title="SPORT", [AL] RTSH Sport 4K
+http://xfire.one:88/live/test1/test2/26872.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] Pito Sport 1 HD
+http://xfire.one:88/live/test1/test2/31627.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] Pito Sport 2 HD
+http://xfire.one:88/live/test1/test2/31631.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [AL] Pito Sport 3 HD
+http://xfire.one:88/live/test1/test2/31632.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Sky_Sports_News_logo.svg/250px-Sky_Sports_News_logo.svg.png" group-title="SPORT", Sky Sport News HD
+http://xfire.one:88/live/test1/test2/33820.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Sky Sport F1 HD
+http://xfire.one:88/live/test1/test2/91745.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/100px-DAZN_LogoInBox_black.svg.png" group-title="SPORT", Dazn Sport 1 HD
+http://xfire.one:88/live/test1/test2/22878.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/100px-DAZN_LogoInBox_black.svg.png" group-title="SPORT", Dazn Sport 2 HD
+http://xfire.one:88/live/test1/test2/22879.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT", Sky Sport Bundesliga 1 HD
+http://xfire.one:88/live/test1/test2/33752.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sky_Sport_DE_Logo_2016.png/250px-Sky_Sport_DE_Logo_2016.png" group-title="SPORT", Sky Sport 1 HD
+http://xfire.one:88/live/test1/test2/30958.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sky_Sport_DE_Logo_2016.png/250px-Sky_Sport_DE_Logo_2016.png" group-title="SPORT", Sky Sport 2 4K
+http://xfire.one:88/live/test1/test2/39591.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sky_Sport_DE_Logo_2016.png/250px-Sky_Sport_DE_Logo_2016.png" group-title="SPORT", Sky Sport 2 HD
+http://xfire.one:88/live/test1/test2/30961.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/300px-Sky_Sport_Austria_Logo_2016.png" group-title="SPORT", Sky Sport Austria 1 HD
+http://xfire.one:88/live/test1/test2/30989.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/300px-Sky_Sport_Austria_Logo_2016.png" group-title="SPORT", Sky Sport Austria 2 HD
+http://xfire.one:88/live/test1/test2/39629.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/300px-Sky_Sport_Austria_Logo_2016.png" group-title="SPORT", Sky Sport Austria 3 HD
+http://xfire.one:88/live/test1/test2/39630.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/300px-Sky_Sport_Austria_Logo_2016.png" group-title="SPORT", Sky Sport Austria 4 HD
+http://xfire.one:88/live/test1/test2/39631.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-football-database/images/6/6e/3._Liga_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20170513033827" group-title="SPORT", Telekom Bundesliga 3 - 1 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39599.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-football-database/images/6/6e/3._Liga_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20170513033827" group-title="SPORT", Telekom Bundesliga 3 - 2 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39600.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-football-database/images/6/6e/3._Liga_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20170513033827" group-title="SPORT", Telekom Bundesliga 3 - 3 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39601.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-football-database/images/6/6e/3._Liga_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20170513033827" group-title="SPORT", Telekom Bundesliga 3 - 4 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39602.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-football-database/images/6/6e/3._Liga_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20170513033827" group-title="SPORT", Telekom Bundesliga 3 - 5 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39603.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-football-database/images/6/6e/3._Liga_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20170513033827" group-title="SPORT", Telekom Bundesliga 3 - 6 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39604.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-football-database/images/6/6e/3._Liga_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20170513033827" group-title="SPORT", Telekom Bundesliga 3 - 7 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39605.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Deutsche_Eishockey_Liga.svg/375px-Deutsche_Eishockey_Liga.svg.png" group-title="SPORT", Telekom DEL Sport 1 HD [Spielzeit]
+http://xfire.one:88/live/test1/test2/39616.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/200px-Eurosport_1_Logo_2015.svg.png" group-title="SPORT", [DE] Eurosport 1 HD
+http://xfire.one:88/live/test1/test2/33816.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png" group-title="SPORT", [DE] Eurosport 2 HD
+http://xfire.one:88/live/test1/test2/33815.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Sport1_2013.svg/266px-Logo_Sport1_2013.svg.png" group-title="SPORT", Sport1 HD
+http://xfire.one:88/live/test1/test2/33819.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.motorvision.tv/images/mv-logo.png" group-title="SPORT", Motorvision HD
+http://xfire.one:88/live/test1/test2/39635.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auto%2C_Motor_und_Sport.svg/180px-Auto%2C_Motor_und_Sport.svg.png" group-title="SPORT", Auto Motor Sport Channel HD
+http://xfire.one:88/live/test1/test2/39637.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [EXYU] ARENA SPORT PREMIUM 1 HD
+http://xfire.one:88/live/test1/test2/93125.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [EXYU] ARENA SPORT PREMIUM 2 HD
+http://xfire.one:88/live/test1/test2/93126.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", [EXYU] ARENA SPORT PREMIUM 3 HD
+http://xfire.one:88/live/test1/test2/93127.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport1_hr.jpg" group-title="SPORT", Ex-Yu: Arena Sport 1 4K+ (HR)
+http://xfire.one:88/live/test1/test2/10780.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport2_hr.jpg" group-title="SPORT", Ex-Yu: Arena Sport 2 4K+ (HR)
+http://xfire.one:88/live/test1/test2/10782.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport3_hr.jpg" group-title="SPORT", Ex-Yu: Arena Sport 3 4K+ (HR)
+http://xfire.one:88/live/test1/test2/10784.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport4_hr.jpg" group-title="SPORT", Ex-Yu: Arena Sport 4 4K+ (HR)
+http://xfire.one:88/live/test1/test2/10786.m3u8
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="SPORT", Ex-Yu: Arena Sport 5 4K+ (HR)
+http://xfire.one:88/live/test1/test2/10788.m3u8
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="SPORT", Ex-Yu: Arena Sport 6 4K+ (HR)
+http://xfire.one:88/live/test1/test2/10789.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Ex-Yu: Sport Klub HD (HR)
+http://xfire.one:88/live/test1/test2/28230.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_hr_1.jpg" group-title="SPORT", Ex-Yu: Sport Klub 1 HD+ (HR)
+http://xfire.one:88/live/test1/test2/10800.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_hr_1.jpg" group-title="SPORT", Ex-Yu: Sport Klub 2 HD+ (HR)
+http://xfire.one:88/live/test1/test2/10801.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_hr_1.jpg" group-title="SPORT", Ex-Yu: Sport Klub 3 HD+ (HR)
+http://xfire.one:88/live/test1/test2/10802.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_hr_1.jpg" group-title="SPORT", Ex-Yu: Sport Klub 4 HD+ (HR)
+http://xfire.one:88/live/test1/test2/10803.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_hr_1.jpg" group-title="SPORT", Ex-Yu: Sport Klub 5 HD+ (HR)
+http://xfire.one:88/live/test1/test2/10804.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_hr_1.jpg" group-title="SPORT", Ex-Yu: Sport Klub 6 HD+ (HR)
+http://xfire.one:88/live/test1/test2/10805.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_hr_1.jpg" group-title="SPORT", Ex-Yu: Sport Klub Golf HD+ (HR)
+http://xfire.one:88/live/test1/test2/10806.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Ex-Yu: Arena Sport 1 4K (RS)
+http://xfire.one:88/live/test1/test2/20872.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport1_rs.jpg" group-title="SPORT", Ex-Yu: Arena Sport 1 HD (RS)
+http://xfire.one:88/live/test1/test2/10791.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Ex-Yu: Arena Sport 2 4K (RS)
+http://xfire.one:88/live/test1/test2/20873.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport2_rs.jpg" group-title="SPORT", Ex-Yu: Arena Sport 2 HD (RS)
+http://xfire.one:88/live/test1/test2/10793.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Ex-Yu: Arena Sport 3 4K (RS)
+http://xfire.one:88/live/test1/test2/20874.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport3_rs.jpg" group-title="SPORT", Ex-Yu: Arena Sport 3 HD (RS)
+http://xfire.one:88/live/test1/test2/10795.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Ex-Yu: Arena Sport 4 4K (RS)
+http://xfire.one:88/live/test1/test2/20875.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport4_rs.jpg" group-title="SPORT", Ex-Yu: Arena Sport 4 HD (RS)
+http://xfire.one:88/live/test1/test2/10797.m3u8
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="SPORT", Ex-Yu: Arena Sport 5 4K (RS)
+http://xfire.one:88/live/test1/test2/10798.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Ex-Yu: Sport Klub HD (SR)
+http://xfire.one:88/live/test1/test2/28235.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT2.png" group-title="SPORT", [AL] SUPER SPORT 2 4K
+http://xfire.one:88/live/test1/test2/34197.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 3.png" group-title="SPORT", [AL] SUPER SPORT 3 4K
+http://xfire.one:88/live/test1/test2/34198.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 4.png" group-title="SPORT", [AL] SUPER SPORT 4 4K
+http://xfire.one:88/live/test1/test2/34199.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/supersport5.png" group-title="SPORT", [AL] SUPER SPORT 5 4K
+http://xfire.one:88/live/test1/test2/34200.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/supersport6.png" group-title="SPORT", [AL] SUPER SPORT 6 4K
+http://xfire.one:88/live/test1/test2/34201.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT7.png" group-title="SPORT", [AL] SUPER SPORT 7 4K
+http://xfire.one:88/live/test1/test2/34202.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 1.png" group-title="SPORT", [AL] SUPER SPORT 1 4K HEVC
+http://xfire.one:88/live/test1/test2/51531.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT2.png" group-title="SPORT", [AL] SUPER SPORT 2 4K HEVC
+http://xfire.one:88/live/test1/test2/51532.m3u8
+
+#EXTINF:-1 tvg-logo="http://123iptv.nl:88/picon/Sport/SUPERSPORT 3.png" group-title="SPORT", [AL] SUPER SPORT 3 4K HEVC
+http://xfire.one:88/live/test1/test2/51533.m3u8
+
